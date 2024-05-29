@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "d8ded4f24238e83b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc1ff927ef925a59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9165612379af58e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS 3620 - Mobile Dev for Iphone/Basics of Swift.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b934eecd13c5de83",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d63ebca210a361f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81534f4e633dbd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e3e14cbd722ce720",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d6e256386fd2296",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "24c36c48c0145575",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "fb065cbf8b7455f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a299c5d8111245bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbc3a6b2c9737d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS 3620 - Mobile Dev for Iphone/Basics of Swift.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "887bd7cb6e3d1e61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS 3620 - Mobile Dev for Iphone/Basics of Swift.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a48d668291d8cc75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbba489a13b3fac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS 3620 - Mobile Dev for Iphone/Basics of Swift.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9165612379af58e2",
+  "lastOpenFiles": [
+    "README.md",
+    "CS 2705 - Networking/10 week - TCP - UDP Ports and Sockets.md",
+    "CS 1410 - OOP/05 - Functions.md",
+    "CS 3620 - Mobile Dev for Iphone/Basics of Swift.md",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511092852.png",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511104041.png",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511093559.png",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511092222.png",
+    "CS 3620 - Mobile Dev for Iphone/Looking up documentation.md",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511092254.png",
+    "CS 3620 - Mobile Dev for Iphone/Photos/Pasted image 20240511084637.png",
+    "CS 3750 - Software Engineering 2/Photos",
+    "CS 3620 - Mobile Dev for Iphone/Photos",
+    "CS 3030 - Scripting Languages/Photos",
+    "CS 3750 - Software Engineering 2",
+    "CS 3620 - Mobile Dev for Iphone",
+    "CS 3030 - Scripting Languages",
+    "CS 3100 - Operation systems/Chapter 36 - IO Devices.md",
+    "CS 3100 - Operation systems/Chapter 31 - Semaphores.md",
+    "CS 3100 - Operation systems/Chapter 26 - Concurrency.md",
+    "CS 3100 - Operation systems/Chapter 22 - virtual memory policies.md",
+    "CS 3100 - Operation systems/Chapter 21 - virtual memory and swapping.md",
+    "CS 3100 - Operation systems/Chapter 18, 19 - Paging.md",
+    "CS 3100 - Operation systems/Chapter 28 - Locks.md",
+    "CS 3100 - Operation systems/Chapter 27 - Thread API.md",
+    "CS 3100 - Operation systems/Chapter 17 - Free Space.md",
+    "CS 3100 - Operation systems/Chapter 8 - Scheduling - the Multi-level feedback queue.md",
+    "CS 3100 - Operation systems/Chapter 9 - Scheduling - Proportional Share.md",
+    "CS 3100 - Operation systems/Chapter 37 - Hard Disks.md",
+    "CS 3100 - Operation systems/Chapter 4 - The Process.md",
+    "CS 3100 - Operation systems/Chapter 40 - File System Implementation.md",
+    "CS 3100 - Operation systems/Chapter 39 - Files N Directories.md",
+    "CS 3100 - Operation systems/Chapter 30 - Condition Variables.md",
+    "CS 3100 - Operation systems/Chapter 29 - Lock-based Concurrent Data Structures.md",
+    "CS 3100 - Operation systems/Chapter 2 - Introduction to OS.md",
+    "CS 3100 - Operation systems/Chapter 5 - API Process.md",
+    "CS 3100 - Operation systems/Chapter 42 - FSCK and Journaling.md",
+    "CS 3100 - Operation systems/Chapter 38 - RAID.md",
+    "CS 3100 - Operation systems/photos/Pasted image 20240410085434.png",
+    "CS 3100 - Operation systems/photos/Pasted image 20240410085940.png",
+    "CS 3100 - Operation systems/photos/Pasted image 20240403125134.png",
+    "CS 3100 - Operation systems/photos/Pasted image 20240403124141.png",
+    "CS 3550 - advanced database/Untitled",
+    "CS 3550 - advanced database/photos",
+    "CS 3550 - advanced database",
+    "CS 3100 - Operation systems/photos",
+    "Untitled.canvas"
+  ]
+}
